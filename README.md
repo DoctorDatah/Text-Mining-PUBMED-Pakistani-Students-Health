@@ -20,21 +20,16 @@ The directory structure of project:
 ```
 
 ├── README.md          <- The top-level README for project report.
-├── data          <- MubMed.org downloaded documents 
-├── lib          <- Custom modules
+├── data               <- MubMed.org downloaded documents 
+├── lib                <- Custom modules
 │   ├── PhraseMining_Utils.R     
 │   ├── PubMed_Utils.R            
 │   ├── SentimentAnalysis_Utils.R             
 │   └── toDataFrame.R            
 
-├── _docs              <- docs used in report
+├── img                <- plots and images
 │
-├── notebooks          <- Jupyter notebooks. 
+├── main.R             <- main R file of the project
 │
-├── images             <- Generated graphics and figures to be used in reporting
-│
-├── src                <- Source code for use in this project.
-│   ├── __init__.py    <- Makes src a Python module
-│   │
-│   ├── data           <- Scrap and format data
-│   │   └── read_write.py
+├── project.Rproj      <- R project file - R-Studio
+
