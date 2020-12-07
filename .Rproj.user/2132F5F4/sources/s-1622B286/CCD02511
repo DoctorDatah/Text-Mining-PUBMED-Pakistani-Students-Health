@@ -1,0 +1,21 @@
+{
+    "id": "CCD02511",
+    "path": "~/GitHub/Text-Mining-PUBMED-Pakistani-Students-Health/lib/toDataFrame.R",
+    "project_path": "lib/toDataFrame.R",
+    "type": "r_source",
+    "hash": "2749321941",
+    "contents": "",
+    "dirty": false,
+    "created": 1607358740151.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {},
+    "folds": "",
+    "lastKnownWriteTime": 1604957776,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604957776,
+    "read_only": false,
+    "read_only_alternatives": []
+}

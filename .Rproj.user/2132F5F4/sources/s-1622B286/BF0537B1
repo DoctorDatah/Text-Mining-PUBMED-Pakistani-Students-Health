@@ -1,0 +1,24 @@
+{
+    "id": "BF0537B1",
+    "path": "~/GitHub/Text-Mining-PUBMED-Pakistani-Students-Health/lib/PhraseMining_Utils.R",
+    "project_path": "lib/PhraseMining_Utils.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607358737396.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "28,43",
+        "scrollLine": "18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1606861511,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606861511,
+    "read_only": false,
+    "read_only_alternatives": []
+}

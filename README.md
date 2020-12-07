@@ -9,14 +9,12 @@
 The Project is focused on text mining the documents from PubMed.org related to Pakistani students health. 
 
 ## Data Source 
-Source: [(here)](https://pubmed.ncbi.nlm.nih.gov/?term=pakistani+students+health).
+Source: [(here)](https://pubmed.ncbi.nlm.nih.gov/?term=pakistani+students+health).<br>
+Search Term: Pakistani+students+health <br>
+We have 129 documents under this search criteria. 
 
 
 ### directory structure
-------------
-
-The directory structure of project:
-
 ```
 
 ├── README.md          <- The top-level README for project report.
@@ -26,7 +24,6 @@ The directory structure of project:
 │   ├── PubMed_Utils.R            
 │   ├── SentimentAnalysis_Utils.R             
 │   └── toDataFrame.R            
-
 ├── img                <- plots and images
 │
 ├── main.R             <- main R file of the project

@@ -1,0 +1,24 @@
+{
+    "id": "8ED7727D",
+    "path": "~/GitHub/Text-Mining-PUBMED-Pakistani-Students-Health/lib/SentimentAnalysis_Utils.R",
+    "project_path": "lib/SentimentAnalysis_Utils.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607358739379.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "40,2",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607359040,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607359040217,
+    "read_only": false,
+    "read_only_alternatives": []
+}
